@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Array
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
