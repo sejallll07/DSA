@@ -1,13 +1,4 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -21,26 +12,70 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (head == NULL || left == right)
-            return head;
 
-        ListNode dummy(0);
-        dummy.next = head;
+        if(left == right) return head;
 
-        ListNode* prev = &dummy;
-        for (int i = 1; i < left; i++) {
-            prev = prev->next;
+        ListNode* ptr = head;
+        int cnt = 1;
+
+        ListNode* prev = nullptr;
+
+        while(cnt != left){
+            prev = ptr;
+            ptr = ptr->next;
+            cnt++;
         }
 
-        ListNode* curr = prev->next;
+        // Save original head
+        ListNode* originalHead = head;
 
-        for (int i = 0; i < right - left; i++) {
-            ListNode* temp = curr->next;
-            curr->next = temp->next;
-            temp->next = prev->next;
-            prev->next = temp;
+        // If left == 1, new sublist starts from head
+        if(prev != nullptr){
+            prev->next = NULL;
         }
 
-        return dummy.next;
+        head = ptr;
+
+        while(cnt != right){
+            ptr = ptr->next;
+            cnt++;
+        }
+
+        ListNode* last = ptr->next;
+        ptr->next = NULL;
+
+        head = reverseList(head);
+
+        if(prev != nullptr){
+            prev->next = head;
+        }
+        else{
+            originalHead = head;
+        }
+
+        ListNode* temp = head;
+
+        while(temp->next != NULL){
+            temp = temp->next;
+        }
+
+        temp->next = last;
+
+        return originalHead;
+    }
+
+    ListNode* reverseList(ListNode* head) {
+
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+
+        while(curr){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
     }
 };
