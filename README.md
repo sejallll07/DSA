@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sejallll07/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sejallll07/DSA/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/sejallll07/DSA/tree/master/3731-find-missing-elements) |
@@ -280,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sejallll07/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sejallll07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sejallll07/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sejallll07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sejallll07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sejallll07/DSA/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sejallll07/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
