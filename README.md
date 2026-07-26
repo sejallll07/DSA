@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sejallll07/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/sejallll07/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sejallll07/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sejallll07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
