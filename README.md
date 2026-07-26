@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sejallll07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sejallll07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sejallll07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sejallll07/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sejallll07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sejallll07/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
