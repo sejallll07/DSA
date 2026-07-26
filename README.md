@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0860-lemonade-change](https://github.com/sejallll07/DSA/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sejallll07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/sejallll07/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sejallll07/DSA/tree/master/1288-remove-covered-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sejallll07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/sejallll07/DSA/tree/master/1288-remove-covered-intervals) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sejallll07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Breadth-First Search
 |  |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sejallll07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sejallll07/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -416,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
