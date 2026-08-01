@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0860-lemonade-change](https://github.com/sejallll07/DSA/tree/master/0860-lemonade-change) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sejallll07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sejallll07/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [3620-network-recovery-pathways](https://github.com/sejallll07/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sejallll07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sejallll07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
