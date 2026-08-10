@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sejallll07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sejallll07/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sejallll07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sejallll07/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/sejallll07/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sejallll07/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sejallll07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sejallll07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -147,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/sejallll07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sejallll07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sejallll07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
