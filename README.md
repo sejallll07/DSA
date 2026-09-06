@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sejallll07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sejallll07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sejallll07/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejallll07/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sejallll07/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sejallll07/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sejallll07/DSA/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sejallll07/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/sejallll07/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sejallll07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sejallll07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sejallll07/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sejallll07/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Graph Coloring
 |  |
 | ------- |
