@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sejallll07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sejallll07/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sejallll07/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sejallll07/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sejallll07/DSA/tree/master/1288-remove-covered-intervals) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sejallll07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sejallll07/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sejallll07/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sejallll07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sejallll07/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sejallll07/DSA/tree/master/3904-smallest-stable-index-ii) |
