@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sejallll07/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sejallll07/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/sejallll07/DSA/tree/master/3206-alternating-groups-i) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sejallll07/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sejallll07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sejallll07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3206-alternating-groups-i](https://github.com/sejallll07/DSA/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
