@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sejallll07/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sejallll07/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejallll07/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sejallll07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sejallll07/DSA/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/sejallll07/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejallll07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sejallll07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejallll07/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sejallll07/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejallll07/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sejallll07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
