@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sejallll07/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sejallll07/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sejallll07/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sejallll07/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sejallll07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sejallll07/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sejallll07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
