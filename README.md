@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sejallll07/DSA/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/sejallll07/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/sejallll07/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sejallll07/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sejallll07/DSA/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sejallll07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sejallll07/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sejallll07/DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/sejallll07/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sejallll07/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sejallll07/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
