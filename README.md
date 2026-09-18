@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/sejallll07/DSA/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sejallll07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sejallll07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sejallll07/DSA/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sejallll07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sejallll07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sejallll07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sejallll07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sejallll07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sejallll07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sejallll07/DSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sejallll07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejallll07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
