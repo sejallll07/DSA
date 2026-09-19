@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sejallll07/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sejallll07/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sejallll07/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/sejallll07/DSA/tree/master/0709-to-lower-case) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sejallll07/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/sejallll07/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sejallll07/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sejallll07/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sejallll07/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sejallll07/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sejallll07/DSA/tree/master/0204-count-primes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sejallll07/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sejallll07/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
