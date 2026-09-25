@@ -2,13 +2,13 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) {
 
-        int g = 0;
-        for(int coin : coins) {
-            g = gcd(g, coin);
-        }
+        // int g = 0;
+        // for(int coin : coins) {
+        //     g = gcd(g, coin);
+        // }
 
-        if(amount % g != 0)
-            return 0;
+        // if(amount % g != 0)
+        //     return 0;
 
         int n = coins.size();
 
