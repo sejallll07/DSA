@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/sejallll07/DSA/tree/master/0457-circular-array-loop) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sejallll07/DSA/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sejallll07/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sejallll07/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sejallll07/DSA/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/sejallll07/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -686,4 +689,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/sejallll07/DSA/tree/master/0457-circular-array-loop) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
