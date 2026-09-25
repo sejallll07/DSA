@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sejallll07/DSA/tree/master/0682-baseball-game) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sejallll07/DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
@@ -693,8 +695,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
