@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/sejallll07/DSA/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sejallll07/DSA/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sejallll07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sejallll07/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sejallll07/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sejallll07/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sejallll07/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sejallll07/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sejallll07/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -703,5 +707,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
