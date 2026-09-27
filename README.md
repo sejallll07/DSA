@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sejallll07/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sejallll07/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/sejallll07/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0709-to-lower-case](https://github.com/sejallll07/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sejallll07/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sejallll07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sejallll07/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sejallll07/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/sejallll07/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
