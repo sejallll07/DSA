@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sejallll07/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/sejallll07/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sejallll07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sejallll07/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sejallll07/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sejallll07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sejallll07/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sejallll07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sejallll07/DSA/tree/master/0547-number-of-provinces) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sejallll07/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sejallll07/DSA/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/sejallll07/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/sejallll07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
