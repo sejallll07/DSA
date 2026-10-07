@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sejallll07/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sejallll07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sejallll07/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1332-remove-palindromic-subsequences](https://github.com/sejallll07/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sejallll07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sejallll07/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/sejallll07/DSA/tree/master/0457-circular-array-loop) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
+| [1332-remove-palindromic-subsequences](https://github.com/sejallll07/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sejallll07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
