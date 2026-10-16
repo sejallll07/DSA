@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/sejallll07/DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/sejallll07/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0819-most-common-word](https://github.com/sejallll07/DSA/tree/master/0819-most-common-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sejallll07/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sejallll07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sejallll07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sejallll07/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/sejallll07/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sejallll07/DSA/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/sejallll07/DSA/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/sejallll07/DSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/sejallll07/DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejallll07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sejallll07/DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0819-most-common-word](https://github.com/sejallll07/DSA/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/sejallll07/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sejallll07/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/sejallll07/DSA/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/sejallll07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sejallll07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sejallll07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
