@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sejallll07/DSA/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sejallll07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sejallll07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sejallll07/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sejallll07/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1748-sum-of-unique-elements](https://github.com/sejallll07/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sejallll07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/sejallll07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sejallll07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sejallll07/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sejallll07/DSA/tree/master/3904-smallest-stable-index-ii) |
