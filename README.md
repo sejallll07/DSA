@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/sejallll07/DSA/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sejallll07/DSA/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/sejallll07/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sejallll07/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sejallll07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sejallll07/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sejallll07/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sejallll07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sejallll07/DSA/tree/master/0724-find-pivot-index) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sejallll07/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sejallll07/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/sejallll07/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sejallll07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
