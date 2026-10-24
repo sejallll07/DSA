@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sejallll07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sejallll07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/sejallll07/DSA/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/sejallll07/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sejallll07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/sejallll07/DSA/tree/master/0819-most-common-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sejallll07/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sejallll07/DSA/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/sejallll07/DSA/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/sejallll07/DSA/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/sejallll07/DSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sejallll07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sejallll07/DSA/tree/master/0658-find-k-closest-elements) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sejallll07/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/sejallll07/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sejallll07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sejallll07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sejallll07/DSA/tree/master/0724-find-pivot-index) |
