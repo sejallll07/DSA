@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sejallll07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sejallll07/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sejallll07/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2270-number-of-ways-to-split-array](https://github.com/sejallll07/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sejallll07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sejallll07/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sejallll07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sejallll07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sejallll07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sejallll07/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/sejallll07/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sejallll07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sejallll07/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sejallll07/DSA/tree/master/3904-smallest-stable-index-ii) |
