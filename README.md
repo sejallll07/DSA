@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejallll07/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sejallll07/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/sejallll07/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/sejallll07/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sejallll07/DSA/tree/master/0048-rotate-image) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sejallll07/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sejallll07/DSA/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/sejallll07/DSA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejallll07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sejallll07/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sejallll07/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejallll07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
