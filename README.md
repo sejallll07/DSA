@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sejallll07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sejallll07/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sejallll07/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sejallll07/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sejallll07/DSA/tree/master/0022-generate-parentheses) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejallll07/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sejallll07/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sejallll07/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sejallll07/DSA/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/sejallll07/DSA/tree/master/0039-combination-sum) |
@@ -836,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sejallll07/DSA/tree/master/0881-boats-to-save-people) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sejallll07/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
