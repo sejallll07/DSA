@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sejallll07/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sejallll07/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sejallll07/DSA/tree/master/0127-word-ladder) |
+| [0165-compare-version-numbers](https://github.com/sejallll07/DSA/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/sejallll07/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sejallll07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sejallll07/DSA/tree/master/0242-valid-anagram) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sejallll07/DSA/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/sejallll07/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/sejallll07/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejallll07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sejallll07/DSA/tree/master/0344-reverse-string) |
