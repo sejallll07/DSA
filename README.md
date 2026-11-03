@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sejallll07/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sejallll07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sejallll07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/sejallll07/DSA/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3206-alternating-groups-i](https://github.com/sejallll07/DSA/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sejallll07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sejallll07/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sejallll07/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sejallll07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/sejallll07/DSA/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sejallll07/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/sejallll07/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sejallll07/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/sejallll07/DSA/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3620-network-recovery-pathways](https://github.com/sejallll07/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sejallll07/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/sejallll07/DSA/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/sejallll07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Graph Coloring
 |  |
