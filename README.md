@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sejallll07/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sejallll07/DSA/tree/master/0016-3sum-closest) |
+| [0086-partition-list](https://github.com/sejallll07/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sejallll07/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/sejallll07/DSA/tree/master/0165-compare-version-numbers) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sejallll07/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/sejallll07/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sejallll07/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sejallll07/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sejallll07/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
