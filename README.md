@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sejallll07/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sejallll07/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sejallll07/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sejallll07/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sejallll07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sejallll07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sejallll07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sejallll07/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sejallll07/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sejallll07/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/sejallll07/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sejallll07/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/sejallll07/DSA/tree/master/0994-rotting-oranges) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sejallll07/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sejallll07/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sejallll07/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sejallll07/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sejallll07/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sejallll07/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sejallll07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
