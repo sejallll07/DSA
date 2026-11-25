@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sejallll07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/sejallll07/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sejallll07/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sejallll07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/sejallll07/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sejallll07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sejallll07/DSA/tree/master/0242-valid-anagram) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sejallll07/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sejallll07/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sejallll07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sejallll07/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejallll07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sejallll07/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/sejallll07/DSA/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/sejallll07/DSA/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sejallll07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sejallll07/DSA/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sejallll07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sejallll07/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
